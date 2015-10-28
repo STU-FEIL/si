@@ -17,6 +17,14 @@ public class Fail {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("STU FEIL");
+        
+        //xfuchs
+        
+        if(true){
+            
+            System.out.println("Na na naaaaaa Batman");
+            
+        }
     }
     
 }
