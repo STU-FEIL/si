@@ -17,6 +17,7 @@ public class Test2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("BETA FEIL");for(int i=0;i<5;i++){System.out.print(i+"\n");}
+        //zaloha
     }
     
 }
